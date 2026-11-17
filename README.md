@@ -34,5 +34,3 @@ The newsroom editor supports:
 - Editing existing articles
 - Removing articles
 
-Article mutations require the password configured by `ARTICLE_PASSWORD` or entered when the server starts.
-
